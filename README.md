@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[Quizzy](https://serrano1314.github.io/Quizzy/index.html)
-[CFOS](https://janemery46.github.io/CFOS/)
-[Web Dev Project](https://janemery46.github.io/web-dev-final-output/index.html)
+[Quizzy](https://serrano1314.github.io/Quizzy/index.html)<br>
+[CFOS](https://janemery46.github.io/CFOS/)<br>
+[Web Dev Project](https://janemery46.github.io/web-dev-final-output/index.html)<br>
 
 
 <!--
