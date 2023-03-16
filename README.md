@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 [![Quizzy](https://img.shields.io/badge/JS-Quizzy-blue)](https://serrano1314.github.io/Quizzy/index.html)<br>
-[CFOS](https://janemery46.github.io/CFOS/)<br>
-[Web Dev Project](https://janemery46.github.io/web-dev-final-output/index.html)<br>
+[![CFOS](https://img.shields.io/badge/HTML-CFOS-blue)](https://janemery46.github.io/CFOS/)<br>
+[![Web Dev Project](https://img.shields.io/badge/HTML-Web20%Dev20%Project-blue)](https://janemery46.github.io/web-dev-final-output/index.html)<br>
 
 
 <!--
